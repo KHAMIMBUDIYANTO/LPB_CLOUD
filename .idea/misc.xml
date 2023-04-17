@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/khami/Documents/SAT/ALFAMART/APP ALFAMART/ItemsReceiver/app/src/main/res/layout/activity_faktur.xml" value="0.3625" />
+        <entry key="..\:/Users/khami/Documents/SAT/ALFAMART/APP ALFAMART/ItemsReceiver/app/src/main/res/layout/activity_finalisasi.xml" value="0.3625" />
+        <entry key="..\:/Users/khami/Documents/SAT/ALFAMART/APP ALFAMART/ItemsReceiver/app/src/main/res/layout/activity_input_container.xml" value="0.3625" />
+        <entry key="..\:/Users/khami/Documents/SAT/ALFAMART/APP ALFAMART/ItemsReceiver/app/src/main/res/layout/activity_input_container_final.xml" value="0.3625" />
+        <entry key="..\:/Users/khami/Documents/SAT/ALFAMART/APP ALFAMART/ItemsReceiver/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Users/khami/Documents/SAT/ALFAMART/APP ALFAMART/ItemsReceiver/app/src/main/res/layout/activity_scan.xml" value="0.3625" />
+        <entry key="..\:/Users/khami/Documents/SAT/ALFAMART/APP ALFAMART/ItemsReceiver/app/src/main/res/layout/activity_scan_selisih.xml" value="0.3625" />
+        <entry key="..\:/Users/khami/Documents/SAT/ALFAMART/APP ALFAMART/ItemsReceiver/app/src/main/res/layout/activity_setting.xml" value="0.3625" />
+        <entry key="..\:/Users/khami/Documents/SAT/ALFAMART/APP ALFAMART/ItemsReceiver/app/src/main/res/layout/lay_kontainer.xml" value="0.3625" />
+        <entry key="..\:/Users/khami/Documents/SAT/ALFAMART/APP ALFAMART/ItemsReceiver/app/src/main/res/layout/lay_list_plu.xml" value="0.3625" />
+        <entry key="..\:/Users/khami/Documents/SAT/ALFAMART/APP ALFAMART/ItemsReceiver/app/src/main/res/layout/lay_list_po.xml" value="0.3625" />
+        <entry key="..\:/Users/khami/Documents/SAT/ALFAMART/APP ALFAMART/ItemsReceiver/app/src/main/res/layout/lay_surat_jalan.xml" value="0.3625" />
+        <entry key="..\:/Users/khami/Documents/SAT/ALFAMART/APP ALFAMART/ItemsReceiver/app/src/main/res/layout/lay_surat_jalan_det.xml" value="0.3625" />
+        <entry key="..\:/Users/khami/Documents/SAT/ALFAMART/APP ALFAMART/ItemsReceiver/app/src/main/res/layout/lay_total_rp.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
